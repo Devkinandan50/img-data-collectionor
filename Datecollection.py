@@ -56,3 +56,10 @@ while True:
         counter += 1
         cv2.imwrite(f'{folder}/Image_{time.time()}.jpg',imgWhite)
         print(counter)
+
+
+
+
+
+# teachable meachine website
+# after collect data using teachable meachine website by google add class and uplaod img and train it
